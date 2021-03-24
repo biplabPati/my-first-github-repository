@@ -1,1 +1,3 @@
 Just another file was created in Features-1 branch
+
+This another-file.txt was modified locally
