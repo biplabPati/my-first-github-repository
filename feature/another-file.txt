@@ -3,3 +3,5 @@ It was just replaced in feature-2 branch
 This another-file.txt was modified locally
 
 This file was changed in feature-2 branch
+
+another modification in feature-2 branch
